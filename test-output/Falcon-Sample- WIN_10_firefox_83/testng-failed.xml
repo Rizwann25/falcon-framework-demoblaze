@@ -9,7 +9,7 @@
     <classes>
       <class name="com.atmecs.falcon_ui_project.testscript.LoginTest">
         <methods>
-          <include name="testLogin" invocation-numbers="3"/>
+          <include name="testLogin" invocation-numbers="0 2"/>
           <include name="preSetup"/>
           <include name="teardown"/>
           <include name="initBrowser"/>
